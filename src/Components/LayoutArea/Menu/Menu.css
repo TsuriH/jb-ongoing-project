@@ -1,0 +1,12 @@
+.Menu {
+    height: 50%;
+	display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: space-evenly;    
+}
+
+.Menu a {
+    text-decoration: none;    
+
+}
